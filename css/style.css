@@ -1,0 +1,147 @@
+body{
+    font-family:"Raleway";
+    text-align: center;
+}
+
+h1{
+    font-family: "Noto Serif";
+}
+
+header{
+    color: white;
+    font-family: "Raleway";
+    background-image: url("../images/home_page.png");
+    background-size: 100%;
+    margin-top: 0px;
+    padding-bottom: 320px;
+    text-align: left;
+}
+
+.nav-left{
+    color: black;
+    font-size: 1.5rem;
+    float: left;
+    width: 30%;
+    margin-left: 13%;
+}
+
+.nav-right{
+    color: white;
+    font-family: "Raleway";
+    font-size: 1.5rem;
+    float: right;
+    text-align: center;
+    width: 57%;
+    padding-top: 20px;
+}
+
+.options{
+    font-size: 1.5rem;
+    margin: 40px;
+}
+
+.nav-mid{
+    padding-top: 250px;
+    margin-left: 13%;
+}
+
+.welcome{
+    color: white;
+    font-size: 70px;
+    font-family: "Raleway";
+}
+
+.luxury{
+    color: white;
+    font-size: 100px;
+    font-family: "Noto Serif";
+}
+
+.hotel{
+    color: white;
+    font-size: 70px;
+    font-family: "Raleway";
+}
+
+footer{
+    width: 100%;
+    text-align: center;
+}
+
+.button-book{
+    background-color: lightsalmon;
+    border-radius: 10px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size: 30px;
+	padding:25px 60px;
+	text-decoration:none;
+}
+
+.mid-container{
+    font-family: "Raleway";
+    font-size: 2rem;
+    color: black;
+    text-align: center;
+    margin: 100px;
+}
+
+.mid-section1{
+    width: 100%;
+    text-align: left;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.mid-pic1{
+    float: right;
+    width: 30%;
+    margin-left: 70px;
+}
+
+.mid-button{
+    background-color: lightsalmon;
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    font-family: Arial;
+    font-size: 2rem;
+    padding: 10px 30px;
+}
+
+.mid-section2{
+    width: 100%;
+    text-align: left;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.mid-pic2{
+    float: right;
+    width: 30%;
+    margin-left: 70px;
+}
+
+.sub-container{
+    margin-bottom: 20px;
+}
+
+.sub-button{
+    background-color: lightsalmon;
+    border-radius: 10px;
+    display: inline-block;
+    cursor: pointer;
+    color: white;
+    font-family: Arial;
+    font-size: 1rem;
+    padding: 10px 10px;
+}
+
+.bottom-container{
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
+}

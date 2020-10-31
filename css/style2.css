@@ -1,0 +1,123 @@
+header{
+    background-image: url(../images/fasilitas\ page.png);
+    background-size: 100%;
+    font-family: "Raleway";
+    color: white;
+    font-size: 2rem;
+}
+
+.judul{
+    float: left;
+    width: 35%;
+    margin-top: 60px;
+    height: 60px;
+}
+
+.nav{
+    float: left;
+    width: 65%;
+    height: 60px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.logo{
+    font-family: "Noto Serif";
+    font-size: 2rem;
+    color: black;
+    margin-left: 260px;
+}
+
+.space{
+    color: white;
+    font-family: "Raleway";
+    margin: 30px;
+    font-size: 2rem;
+}
+
+.mid-nav{
+    padding-top: 200px;
+    padding-left: 13%;
+    
+}
+
+.welcome{
+    font-family: "Raleway";
+    color: white;
+    font-size: 70px;
+}
+
+.luxury{
+    font-family: "Noto Serif";
+    color: white;
+    font-size: 140px;
+}
+
+.hotels{
+    font-family: "Raleway";
+    color: white;
+    font-size: 70px;
+}
+
+.top-button{
+    margin-top: 30px;
+    text-align: center;
+    height: 200px;
+}
+
+.button-book{
+    font-size: 30px;
+    font-family: "Arial";
+    color: white;
+    background-color: lightsalmon;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.mid-section{
+    margin: 50px;
+    font-family: "Raleway";
+    font-size: 2rem;
+}
+
+.mid-judul-box{
+    line-height: 2;
+    text-align: center;
+}
+
+.facilities-pic{
+    height: 1000px;
+    width: 100%;
+}
+
+.room-name{
+    text-align: center;
+    background-color: teal;
+}
+
+.room-name-text{
+    background-color: white;
+
+}
+
+.testi{
+    font-family: "Noto Serif";
+    text-align: center;
+}
+
+.testi-section{
+    text-align: center;
+}
+
+.button-section{
+    text-align: center;
+}
+
+.button{
+    background-color: orange;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
